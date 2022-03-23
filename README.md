@@ -3,5 +3,5 @@
 ### Members:
   - Nikolas Nash (Leader)
   - Lucy Clement
-  - Dillon 
+  - Dillon Smith
 ## Goals: To create an easily accessable and user-friendly translator. 
