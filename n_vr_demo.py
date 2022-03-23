@@ -12,7 +12,7 @@ print(f"{colors.FAIL}Demo voice recognition program{colors.RESET}")
 if status != sr.RequestError:
     print(f"Status: {colors.OK}{status}{colors.RESET}")
 
-
+test = "test"
 r = sr.Recognizer()
 recording = True
 DEBUG = False
