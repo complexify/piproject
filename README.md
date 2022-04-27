@@ -5,3 +5,9 @@
   - Lucy Clement
   - Dillon Smith
 ## Goals: To create an easily accessable and user-friendly translator. 
+
+## Important Libararies to install:
+  - Pipwin: pip install pipwin
+  - SpeechRecognition: pipwin install SpeechRecognition
+  - GoogleTrans: pip install googletrans==3.1.0a0
+
