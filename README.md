@@ -6,7 +6,7 @@
   - Dillon Smith
 ## Goals: To create an easily accessable and user-friendly translator. 
 
-## Important Libararies to install:
+## Important Libararies to install (not updated currently):
   - Pipwin: pip install pipwin
   - SpeechRecognition: pipwin install SpeechRecognition
   - GoogleTrans: pip install googletrans==3.1.0a0
