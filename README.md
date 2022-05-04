@@ -1,5 +1,5 @@
-# CSC 132 Final Project: Voice Recognition and Translator
-## Description: In this project, we will use the Raspberry Pi and GPIO elements to create a translator that takes in a voice line and outputs a string that can be translated. 
+# CSC 132 Final Project: Techie's Translator Game
+## Description: In this project, are making a translation quiz game. You speak into the micorphone and a quiz of random languages will be generated from what you said. 
 ### Members:
   - Nikolas Nash (Leader)
   - Lucy Clement
