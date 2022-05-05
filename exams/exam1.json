@@ -1,0 +1,90 @@
+[
+    {
+        "question": "What is the following phrase in filipino: 'hello'",
+        "selections": [
+            {
+                "language": "filipino",
+                "translation-result": "Kamusta"
+            },
+            {
+                "language": "maori",
+                "translation-result": "kia ora"
+            },
+            {
+                "language": "corsican",
+                "translation-result": "bonghjornu"
+            },
+            {
+                "language": "georgian",
+                "translation-result": "\u10d2\u10d0\u10db\u10d0\u10e0\u10ef\u10dd\u10d1\u10d0"
+            }
+        ],
+        "correct-index": 1
+    },
+    {
+        "question": "What is the following phrase in maori: 'hello'",
+        "selections": [
+            {
+                "language": "filipino",
+                "translation-result": "Kamusta"
+            },
+            {
+                "language": "maori",
+                "translation-result": "kia ora"
+            },
+            {
+                "language": "corsican",
+                "translation-result": "bonghjornu"
+            },
+            {
+                "language": "georgian",
+                "translation-result": "\u10d2\u10d0\u10db\u10d0\u10e0\u10ef\u10dd\u10d1\u10d0"
+            }
+        ],
+        "correct-index": 2
+    },
+    {
+        "question": "What is the following phrase in corsican: 'hello'",
+        "selections": [
+            {
+                "language": "filipino",
+                "translation-result": "Kamusta"
+            },
+            {
+                "language": "maori",
+                "translation-result": "kia ora"
+            },
+            {
+                "language": "corsican",
+                "translation-result": "bonghjornu"
+            },
+            {
+                "language": "georgian",
+                "translation-result": "\u10d2\u10d0\u10db\u10d0\u10e0\u10ef\u10dd\u10d1\u10d0"
+            }
+        ],
+        "correct-index": 3
+    },
+    {
+        "question": "What is the following phrase in georgian: 'hello'",
+        "selections": [
+            {
+                "language": "filipino",
+                "translation-result": "Kamusta"
+            },
+            {
+                "language": "maori",
+                "translation-result": "kia ora"
+            },
+            {
+                "language": "corsican",
+                "translation-result": "bonghjornu"
+            },
+            {
+                "language": "georgian",
+                "translation-result": "\u10d2\u10d0\u10db\u10d0\u10e0\u10ef\u10dd\u10d1\u10d0"
+            }
+        ],
+        "correct-index": 4
+    }
+]
